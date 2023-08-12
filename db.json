@@ -1,0 +1,11 @@
+{
+    "idenify": [
+        { "room": "B1-3", "name": "Thanh", "printId": "004" },
+        { "room": "B1-3", "name": "Vĩ", "printId": "005" },
+        { "room": "A3-4", "name": "Hoài", "printId": "006" },
+        { "room": "B2-5", "name": "Tiên", "printId": "007" },
+        { "room": "B1-2", "name": "Thi", "printId": "008" },
+        { "room": "B1-4", "name": "Hải", "printId": "009" },
+        { "room": "A3-3", "name": "Nhi", "printId": "010" }
+    ]
+}
